@@ -89,22 +89,20 @@ Posts support image uploads encoded and stored along with the memory.
 project_mern_memories
 │
 ├── client
-│   ├── src
-│   │   ├── actions
-│   │   ├── components
-│   │   ├── reducers
-│   │   ├── api
-│   │   └── App.js
+│ └── src
+│ ├── actions
+│ ├── components
+│ ├── reducers
+│ ├── api
+│ └── App.js
 │
 ├── server
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   └── index.js
+│ ├── controllers
+│ ├── models
+│ ├── routes
+│ └── index.js
 │
 └── README.md
-
----
 
 ## ⚙️ How It Works
 
